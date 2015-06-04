@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Hello World
 > A [Bespoke.js](http://markdalgleish.com/projects/bespoke.js) presentation, built with [generator-bespoke](https://github.com/markdalgleish/generator-bespoke)
 
@@ -19,3 +20,6 @@ $ gulp serve
 =======
 # testing2
 >>>>>>> e1c2f827169986348011b80f419ab5ce2baff818
+=======
+# BESPOKE2
+>>>>>>> 5fdafa4998874066858ff45eb377d0132e738fbb
